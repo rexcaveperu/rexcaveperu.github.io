@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rex Cave Perú",
-    "currentPage": "httpsrexcaveperu.github.iohtml.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -57,7 +57,7 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
-    "httpsrexcaveperu.github.iohtml.html": {
+    "html.html": {
       "settings": {
         "main": true,
         "title": "Rex Cave Perú",
