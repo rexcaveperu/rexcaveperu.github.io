@@ -50,7 +50,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/img-20200620-wa0002-128x128-1.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
+    "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false
@@ -60,10 +60,11 @@
       "settings": {
         "main": true,
         "title": "Rex Cave Peru",
-        "meta_descr": "",
+        "meta_descr": "Somos una empresa dedicada al rubro de ventas de aparatos electrónicos como computadoras, laptops y accesorios de todo tipo. De la cueva a tu hogar!",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/img-20200620-wa0002-1200x1200.jpg"
       },
       "components": [
         {
